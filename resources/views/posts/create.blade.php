@@ -2,7 +2,7 @@
     @csrf
     <div>
         <label for="title">Title:</label>
-        <input type="text" id="title" name="title" required>
+        <input type="text" id="title" name="title">
     </div>
     <div>
         <label for="content">Content:</label>
